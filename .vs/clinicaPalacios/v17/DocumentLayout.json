@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antho\\source\\repos\\clinicaPalacios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{720884FC-BBFE-482D-A9E9-D02FF8AD7036}|clinicaPalacios\\clinicaPalacios.csproj|c:\\users\\antho\\source\\repos\\clinicapalacios\\clinicapalacios\\properties\\clogica\\clsmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720884FC-BBFE-482D-A9E9-D02FF8AD7036}|clinicaPalacios\\clinicaPalacios.csproj|solutionrelative:clinicapalacios\\properties\\clogica\\clsmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720884FC-BBFE-482D-A9E9-D02FF8AD7036}|clinicaPalacios\\clinicaPalacios.csproj|c:\\users\\antho\\source\\repos\\clinicapalacios\\clinicapalacios\\properties\\clogica\\clsconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720884FC-BBFE-482D-A9E9-D02FF8AD7036}|clinicaPalacios\\clinicaPalacios.csproj|solutionrelative:clinicapalacios\\properties\\clogica\\clsconsultas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720884FC-BBFE-482D-A9E9-D02FF8AD7036}|clinicaPalacios\\clinicaPalacios.csproj|c:\\users\\antho\\source\\repos\\clinicapalacios\\clinicapalacios\\properties\\clogica\\clspacientescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720884FC-BBFE-482D-A9E9-D02FF8AD7036}|clinicaPalacios\\clinicaPalacios.csproj|solutionrelative:clinicapalacios\\properties\\clogica\\clspacientescs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsMedicos.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\clinicaPalacios\\clinicaPalacios\\Properties\\cLogica\\clsMedicos.cs",
+              "RelativeDocumentMoniker": "clinicaPalacios\\Properties\\cLogica\\clsMedicos.cs",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\clinicaPalacios\\clinicaPalacios\\Properties\\cLogica\\clsMedicos.cs",
+              "RelativeToolTip": "clinicaPalacios\\Properties\\cLogica\\clsMedicos.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:47:03.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsConsultas.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\clinicaPalacios\\clinicaPalacios\\Properties\\cLogica\\clsConsultas.cs",
+              "RelativeDocumentMoniker": "clinicaPalacios\\Properties\\cLogica\\clsConsultas.cs",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\clinicaPalacios\\clinicaPalacios\\Properties\\cLogica\\clsConsultas.cs",
+              "RelativeToolTip": "clinicaPalacios\\Properties\\cLogica\\clsConsultas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:46:30.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsPacientescs.cs",
+              "DocumentMoniker": "C:\\Users\\antho\\source\\repos\\clinicaPalacios\\clinicaPalacios\\Properties\\cLogica\\clsPacientescs.cs",
+              "RelativeDocumentMoniker": "clinicaPalacios\\Properties\\cLogica\\clsPacientescs.cs",
+              "ToolTip": "C:\\Users\\antho\\source\\repos\\clinicaPalacios\\clinicaPalacios\\Properties\\cLogica\\clsPacientescs.cs",
+              "RelativeToolTip": "clinicaPalacios\\Properties\\cLogica\\clsPacientescs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:37:53.238Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
